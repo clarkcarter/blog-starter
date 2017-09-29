@@ -1,0 +1,10 @@
+ul.site-nav {
+  float: right;
+  list-style: none;
+  display: inline-block;
+}
+
+ul.site-nav li{
+  padding-left: 1em !important;
+  display: inline;
+}
